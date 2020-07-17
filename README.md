@@ -3,30 +3,7 @@ Class Attendance using Face Recognition (Haar Cascade) #Python #Open CV
 
 First, we need to install few packages - 
 
-pyfiglet
-appdirs
-attrs
-black
-Click
-cycler
-demjson4
-kiwisolver
-matplotlib
-nose
-numpy
-opencv-contrib-python
-pandas
-Pillow
-pyparsing
-python-dateutil
-pytz
-six
-toml
-virtualenv
-xlrd
-xmltodict
-yagmail
-yapf
+pyfiglet, appdirs, attrs, black, Click, cycler, demjson4, kiwisolver, matplotlib, nose, numpy, opencv-contrib-python, pandas, Pillow, pyparsing, python-dateutil, pytz, six, toml, virtualenv, xlrd, xmltodict, yagmail, yapf.
 
 After installing all these packages - 
 
